@@ -9,4 +9,4 @@ Gameplay Images:
 ![123](https://github.com/user-attachments/assets/6c19a744-4f88-48f6-bc59-8ff0847f2329)
 ![wer](https://github.com/user-attachments/assets/492fe4cf-9930-40a9-b783-0fdefae18a34)
 
-https://gamedevandrew.itch.io/protect-the-souvla
+[Game Website](https://gamedevandrew.itch.io/protect-the-souvla)
