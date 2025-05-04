@@ -1,0 +1,17 @@
+Engine/Binaries/Win64/D3D12/D3D12Core.dll	2024-09-14T09:28:35.515Z
+Engine/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2024-09-14T09:28:35.610Z
+Engine/Binaries/Win64/OpenImageDenoise.dll	2024-09-14T09:28:49.203Z
+Engine/Binaries/Win64/tbb.dll	2024-09-14T09:28:55.730Z
+Engine/Binaries/Win64/tbb12.dll	2024-09-14T09:28:55.991Z
+Engine/Binaries/Win64/tbbmalloc.dll	2024-09-14T09:28:55.991Z
+Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe	2024-09-14T09:29:39.275Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-09-14T09:27:58.128Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-09-14T09:28:30.457Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-09-14T09:28:30.464Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-09-14T09:28:30.465Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-09-14T09:28:31.551Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-09-14T09:28:31.552Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-09-14T09:28:32.027Z
+Engine/Content/Renderer/TessellationTable.bin	2024-04-20T19:03:21.392Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-04-20T19:03:21.449Z
+ProtectTheSouvla.exe	2025-05-03T21:35:23.090Z
